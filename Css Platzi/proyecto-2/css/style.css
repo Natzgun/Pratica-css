@@ -1,0 +1,32 @@
+.title {
+    color: blueviolet;
+    font-size: 60px;
+}
+.fruits {
+    color: crimson;
+    font-size: 30px;
+}
+.verduras {
+    color: crimson;
+    font-size: 30px;
+}
+.despensa {
+    color: crimson;
+    font-size: 30px;
+}
+.list {
+    color: darkorchid;
+
+}
+.lsfruts {
+    color: darkslategray;
+    font-size: 20px;
+}
+.lsverdurs {
+    color: darkslategray;
+    font-size: 20px;
+}
+.lsdespensa {
+    color: darkslategray;
+    font-size: 20px;
+}
